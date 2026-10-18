@@ -1,0 +1,17 @@
+# Whitelist: everything is ignored except the paths below
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/configure
+!/configure.ac
+!/aclocal.m4
+!/Makefile.in
+!/pkgIndex.tcl.in
+!/tclconfig/
+!/tst.tcl
+
+!/generic/
+/generic/*
+!/generic/ordali_ccode.c
+!/generic/matrices.inc
